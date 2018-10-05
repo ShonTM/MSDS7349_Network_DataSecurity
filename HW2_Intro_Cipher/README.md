@@ -1,3 +1,18 @@
+What to Submit
+
+Your final submission shall be a single pdf document that includes this document, screen captures of your exercises plus
+your answers to each of the written questions (if any). Note that you are expected to clearly label each section so as to make
+it clear to the instructor what files and data belong to which exercise/question. In your submitted pdf document, place your
+last name and the homework number at the beginning of the file name. For example, the filename for Homework 2 for Daniel
+Engels should be EngelsHW2MSDS7349.pdf.
+
+Collaboration is expected and encouraged; however, each student must hand in their own homework assignment. To the
+greatest extent possible, answers should not be copied but, instead, should be written in your own words. Copying answers
+from anywhere is plagiarism, this includes copying text directly from the textbook. Do not copy answers. Always use your own
+words. For each question list all persons with whom you collaborated and list all resources used in arriving at your answer.
+Resources include but are not limited to the textbook used for this course, papers read on the topic, and Google search results.
+Note that ‘Google’ is not a resource. Don’t forget to place your name on the document.
+
 Exercise 1 : Simple Substitution Cipher
 The goal of this exercise is to write a cyclic cipher to encrypt messages. This type of cipher was used by Julius Caesar to communicate with his generals. It is very simple to generate but it can actually be easily broken and does not provide the security one would hope for.
 The key idea behind the Caesar cipher is to replace each letter by a letter some fixed number of positions down the alphabet.
